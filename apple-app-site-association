@@ -1,22 +1,70 @@
 {
-   "applinks":{
-      "details":[
-         {
-            "comment":"McLuck app",
-            "appIDs":[
-               "3CW565P27P.com.mcluck.app"
-            ],
-            "components":[
-               {
-                  "/":"/v1/confirm-email/*"
-               }
-            ]
-         }
-      ]
+   "applinks": {
+     "details": [
+       {
+         "comment": "McLuck app",
+         "appIDs": [
+           "3CW565P27P.com.mcluck.app"
+         ],
+         "components": [
+           {
+             "/": "/v1/confirm-email/*"
+           },
+           {
+             "/": "/login"
+           },
+           {
+             "/": "/register"
+           },
+           {
+             "/": "/lobby"
+           },
+           {
+             "/": "/gold-coins"
+           },
+           {
+             "/": "/promotions/*"
+           },
+           {
+             "/": "/providers/*"
+           },
+           {
+             "/": "/my-profile"
+           },
+           {
+             "/": "/slots/*"
+           },
+           {
+             "/": "/recommended"
+           },
+           {
+             "/": "/live-dealer"
+           },
+           {
+             "/": "/privacy"
+           },
+           {
+             "/": "/player-safety"
+           },
+           {
+             "/": "/terms-of-service"
+           },
+           {
+             "/": "/sweepstakes-rules"
+           },
+           {
+             "/": "/about-us"
+           },
+           {
+             "/": "/hc/*"
+           }
+         ]
+       }
+     ]
    },
-   "webcredentials":{
-      "apps":[
-         "3CW565P27P.com.mcluck.app"
-      ]
+   "webcredentials": {
+     "apps": [
+       "3CW565P27P.com.mcluck.app"
+     ]
    }
-}
+ }
