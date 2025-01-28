@@ -40,6 +40,9 @@
            {
              "/": "/live-casino"
            },
+          {
+             "/": "/slingo"
+           },
            {
              "/": "/privacy"
            },
