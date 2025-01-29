@@ -67,9 +67,9 @@
            {
              "/": "/hc/*"
            },
-{
-"/": "/reset-password-manually"
-},
+           {
+             "/": "/reset-password-manually"
+           },
          ]
        }
      ]
